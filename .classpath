@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/Users/zhaoxudong/workspace/test/bin/pets.jar"/>
+	<classpathentry kind="lib" path="G:/学习专区/Java资料/ThinkingInJava第4版专用Jar包/TinkingInJava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhaoxudong/Downloads/distribution-karaf-0.4.2-Beryllium-SR2/distribution-karaf-0.4.2-Beryllium-SR2/system/org/opendaylight/openflowplugin/applications/topology-manager/0.2.2-Beryllium-SR2/topology-manager-0.2.2-Beryllium-SR2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
